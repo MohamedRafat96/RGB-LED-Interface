@@ -1,0 +1,35 @@
+D:\Ninja\RGB\RGB\bin\Debug\RGB.exe.config
+D:\Ninja\RGB\RGB\bin\Debug\RGB.exe
+D:\Ninja\RGB\RGB\bin\Debug\RGB.pdb
+D:\Ninja\RGB\RGB\obj\Debug\RGB.csprojResolveAssemblyReference.cache
+D:\Ninja\RGB\RGB\obj\Debug\RGB.Form1.resources
+D:\Ninja\RGB\RGB\obj\Debug\RGB.Properties.Resources.resources
+D:\Ninja\RGB\RGB\obj\Debug\RGB.csproj.GenerateResource.Cache
+D:\Ninja\RGB\RGB\obj\Debug\RGB.exe
+D:\Ninja\RGB\RGB\obj\Debug\RGB.pdb
+D:\Ninja\RGB\RGB\bin\Debug\ArduinoUploader.dll
+D:\Ninja\RGB\RGB\bin\Debug\IntelHexFormatReader.dll
+D:\Ninja\RGB\RGB\bin\Debug\NLog.dll
+D:\Ninja\RGB\RGB\bin\Debug\RJCP.SerialPortStream.dll
+D:\Ninja\RGB\RGB\bin\Debug\NLog.xml
+D:\Ninja\RGB\RGB\bin\Debug\RJCP.SerialPortStream.pdb
+D:\Ninja\RGB\RGB\bin\Debug\RJCP.SerialPortStream.xml
+D:\Ninja\RGB\RGB\obj\Debug\RGB.AboutBox1.resources
+F:\Rafat\Embedded Systems\RGBN\RGB\obj\Debug\RGB.Form1.resources
+F:\Rafat\Embedded Systems\RGBN\RGB\obj\Debug\RGB.Properties.Resources.resources
+F:\Rafat\Embedded Systems\RGBN\RGB\obj\Debug\RGB.csproj.GenerateResource.cache
+F:\Rafat\Embedded Systems\RGBN\RGB\obj\Debug\RGB.csproj.CoreCompileInputs.cache
+F:\Rafat\Embedded Systems\RGBN\RGB\bin\Debug\RGB.exe.config
+F:\Rafat\Embedded Systems\RGBN\RGB\bin\Debug\RGB.exe
+F:\Rafat\Embedded Systems\RGBN\RGB\bin\Debug\RGB.pdb
+F:\Rafat\Embedded Systems\RGBN\RGB\bin\Debug\ArduinoUploader.dll
+F:\Rafat\Embedded Systems\RGBN\RGB\bin\Debug\IntelHexFormatReader.dll
+F:\Rafat\Embedded Systems\RGBN\RGB\bin\Debug\NLog.dll
+F:\Rafat\Embedded Systems\RGBN\RGB\bin\Debug\RJCP.SerialPortStream.dll
+F:\Rafat\Embedded Systems\RGBN\RGB\bin\Debug\NLog.xml
+F:\Rafat\Embedded Systems\RGBN\RGB\bin\Debug\RJCP.SerialPortStream.pdb
+F:\Rafat\Embedded Systems\RGBN\RGB\bin\Debug\RJCP.SerialPortStream.xml
+F:\Rafat\Embedded Systems\RGBN\RGB\obj\Debug\RGB.csproj.CopyComplete
+F:\Rafat\Embedded Systems\RGBN\RGB\obj\Debug\RGB.exe
+F:\Rafat\Embedded Systems\RGBN\RGB\obj\Debug\RGB.pdb
+F:\Rafat\Embedded Systems\RGBN\RGB\obj\Debug\RGB.csprojAssemblyReference.cache
