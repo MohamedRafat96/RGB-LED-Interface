@@ -1,1 +1,1 @@
-# RGP_Interface_app
+# RGB Interface C# Applcation
