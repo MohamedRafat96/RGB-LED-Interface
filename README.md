@@ -9,6 +9,6 @@
 - Pin G to Pin 9
 - Pin B to Pin 10
 
-### Then connect the Arduino USB to the device and open the application and choose from the list the USB port for Arduino
+### Then connect the Arduino USB to the device and open the application and choose from the list the USB port for Arduino, then press the connect button in this application you do not need to program the Arduino all you have to do is click the Arduino button it will burn the code on Arduino directly
 ![2020-06-28_165317](https://user-images.githubusercontent.com/25717122/85950951-32e3a480-b960-11ea-8327-79cdea7d9606.jpg)
 
